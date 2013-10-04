@@ -1,0 +1,9 @@
+.rspec
+.DS_Store
+notifier*.gem
+Gemfile.lock
+
+.bundle/
+coverage/
+tmp/
+/vendor/cache/*
